@@ -285,13 +285,15 @@ header {
   color: #111;
 }
 .btn--form {
-  background-color: #ececec;
+  background-color: #fff;
   color: #111;
   align-self: end;
   padding: 1.2rem;
   font-size: 1.6rem;
   font-weight: 500;
   font-family: "poppins";
+  border: none;
+  border-radius: 9px;
 }
 .btn--form:hover {
   background-color: #fff;
